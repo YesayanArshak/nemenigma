@@ -1,2 +1,4 @@
 # nemenigma
-advanced messenger 
+
+Nemenigma is an advanced messenger.
+
