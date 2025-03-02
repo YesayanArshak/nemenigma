@@ -2,4 +2,4 @@ from .base import *
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
-ALLOWED_HOSTS = ['nemenigma.com']
+ALLOWED_HOSTS = ["nemenigma.com"]
